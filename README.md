@@ -12,6 +12,20 @@ This project demonstrates the integration of **Tines**, a SOAR platform, with **
 - **Design and Implement Playbooks**: Create a custom playbook (called “stories” in Tines) that integrates detection alerts with communication tools like Slack and email.
 - **User Interaction for Incident Response**: Enable users to provide input on critical actions, such as isolating machines upon detecting malicious activity.
 - **Hands-On SOAR and EDR Experience**: Gain practical experience with SOAR and EDR platforms by setting up detection rules, generating events, and automating responses.
+  
+## Tools Used:
+
+
+| Tool             | Description                                                 |
+|------------------|-------------------------------------------------------------|
+| **Tines**        | SOAR platform for automating security workflows.             |
+| **LimaCharlie**  | EDR platform for detecting security events and vulnerabilities. |
+| **Slack**        | Communication tool for receiving security alerts.            |
+| **Windows Server**| A virtual machine used to simulate a real network environment. |
+| **LaZagne**      | Password recovery tool used for testing detection capabilities. |
+
+
+
 
 ## Project Workflow
 
@@ -67,3 +81,5 @@ By the end of the project, I successfully:
 This project demonstrated the immense value of integrating SOAR platforms like Tines with EDR tools such as LimaCharlie to automate SOC workflows. Automating detection and response not only enhances incident management but also improves efficiency by allowing SOC teams to focus on critical threats.
 
 By following this project, I gained valuable real-world experience and developed a practical understanding of orchestrating automated responses to security threats in a streamlined and structured way. The skills learned here will serve as a solid foundation for future SOC automation and security orchestration endeavours.
+
+
